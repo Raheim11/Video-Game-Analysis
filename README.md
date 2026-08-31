@@ -1,4 +1,4 @@
-# 🎮 Understanding Video Game Trends: Genre & Review Score Analysis
+#  Understanding Video Game Trends: Genre & Review Score Analysis
 
 ## Overview
 
@@ -13,7 +13,7 @@ The project demonstrates practical applications of **data cleaning, exploratory 
 
 ---
 
-## 🎯 Research Questions
+##  Research Questions
 
 ### Confidence Interval Analysis
 
@@ -31,7 +31,7 @@ The hypothesis test uses:
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 ### Action Game Proportion
 
@@ -59,7 +59,7 @@ The observed mean is below 75, suggesting that the difference is primarily in th
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 * **Python**
 * **Pandas** — data loading, cleaning, and manipulation
@@ -70,7 +70,7 @@ The observed mean is below 75, suggesting that the difference is primarily in th
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### 1. Data Preparation
 
@@ -139,7 +139,7 @@ The project includes visualizations of:
 
 ---
 
-## 💡 Business & Industry Relevance
+##  Business & Industry Relevance
 
 The analysis demonstrates how statistical methods can be used to extract insights from real-world entertainment data.
 
@@ -147,7 +147,7 @@ Understanding genre distribution can help **game developers, publishers, and mar
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * The dataset only covers games released between **2004 and 2010**, so the findings may not generalize to modern video games.
 * The analysis does not account for potential differences between gaming platforms.
@@ -156,7 +156,7 @@ Understanding genre distribution can help **game developers, publishers, and mar
 
 ---
 
-## 🚀 Future Analysis
+##  Future Analysis
 
 Potential extensions of this project include:
 
@@ -170,7 +170,7 @@ Potential extensions of this project include:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 video-game-analysis/
@@ -182,7 +182,7 @@ video-game-analysis/
 
 ---
 
-## 👤 Skills Demonstrated
+##  Skills Demonstrated
 
 **Data Analysis:**
 Data cleaning • Exploratory Data Analysis • Statistical inference • Data interpretation
@@ -198,6 +198,6 @@ Histograms • Bootstrap distributions • Statistical result visualization
 
 ---
 
-## 📌 Project Takeaway
+##  Project Takeaway
 
 This project demonstrates the ability to move from a raw dataset to **statistically supported conclusions** using Python. Rather than relying solely on descriptive statistics, the analysis applies resampling and inferential methods to estimate population characteristics and evaluate statistical hypotheses.
