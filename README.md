@@ -125,7 +125,7 @@ The project includes visualizations of:
 
 ---
 
-## 📈 Results Summary
+##  Results Summary
 
 | Analysis                     |          Result |
 | ---------------------------- | --------------: |
